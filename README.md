@@ -1,7 +1,7 @@
 # Paginationassignment
 An Android App that lists the post and details.
 
-![Paginationassignment](assign.gif)
+![Paginationassignment](Assignment/assign.gif)
 
 ## Architecture 
 
